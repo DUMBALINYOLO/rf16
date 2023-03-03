@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.node-label {
+  font-size: 18px;
+  padding: 5px 20px;
+  border-radius: 50%;
+  background-color: rgba(255, 0, 0, 0.5);
+  user-select: none;
+}

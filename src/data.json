@@ -1,0 +1,1310 @@
+{
+  "nodes": [
+    {
+      "id": "clothing, fashion, sustainable",
+      "type": "Category",
+      "label": "clothing, fashion, sustainable",
+      "name": "clothing, fashion, sustainable",
+      "size": 10
+    },
+    {
+      "id": "Fashion design",
+      "label": "Fashion design",
+      "name": "Fashion design",
+      "size": 10
+    },
+    {
+      "id": "Fashion clothing",
+      "label": "Fashion clothing",
+      "name": "Fashion clothing",
+      "size": 10
+    },
+    {
+      "id": "Fashion accessories",
+      "label": "Fashion accessories",
+      "name": "Fashion accessories",
+      "size": 10
+    },
+    {
+      "id": "Vintage clothing",
+      "label": "Vintage clothing",
+      "name": "Vintage clothing",
+      "size": 10
+    },
+    {
+      "id": "Designer clothing",
+      "label": "Designer clothing",
+      "name": "Designer clothing",
+      "size": 10
+    },
+    {
+      "id": "Sustainable fashion",
+      "label": "Sustainable fashion",
+      "name": "Sustainable fashion",
+      "size": 10
+    },
+    {
+      "id": "Luxury goods",
+      "label": "Luxury goods",
+      "name": "Luxury goods",
+      "size": 10
+    },
+    {
+      "id": "z3 Relaxed Luxury Clothing",
+      "label": "z3 Relaxed Luxury Clothing",
+      "name": "z3 Relaxed Luxury Clothing",
+      "size": 10
+    },
+    {
+      "id": "Sustainable clothing",
+      "label": "Sustainable clothing",
+      "name": "Sustainable clothing",
+      "size": 10
+    },
+    {
+      "id": "footwear, news, pediped",
+      "type": "Category",
+      "label": "footwear, news, pediped",
+      "name": "footwear, news, pediped",
+      "size": 10
+    },
+    {
+      "id": "Footwear",
+      "label": "Footwear",
+      "name": "Footwear",
+      "size": 10
+    },
+    {
+      "id": "Footwear News",
+      "label": "Footwear News",
+      "name": "Footwear News",
+      "size": 10
+    },
+    {
+      "id": "pediped Footwear",
+      "label": "pediped Footwear",
+      "name": "pediped Footwear",
+      "size": 10
+    },
+    {
+      "id": "Outerwear",
+      "label": "Outerwear",
+      "name": "Outerwear",
+      "size": 10
+    },
+    {
+      "id": "Eyewear",
+      "label": "Eyewear",
+      "name": "Eyewear",
+      "size": 10
+    },
+    {
+      "id": "fashion, style, trend",
+      "type": "Category",
+      "label": "fashion, style, trend",
+      "name": "fashion, style, trend",
+      "size": 10
+    },
+    {
+      "id": "Online Fashion",
+      "label": "Online Fashion",
+      "name": "Online Fashion",
+      "size": 10
+    },
+    {
+      "id": "Style Fashion Trend",
+      "label": "Style Fashion Trend",
+      "name": "Style Fashion Trend",
+      "size": 10
+    },
+    {
+      "id": "Fashion Bags",
+      "label": "Fashion Bags",
+      "name": "Fashion Bags",
+      "size": 10
+    },
+    {
+      "id": "Style & Fashion",
+      "label": "Style & Fashion",
+      "name": "Style & Fashion",
+      "size": 10
+    },
+    {
+      "id": "Fashion Clothes",
+      "label": "Fashion Clothes",
+      "name": "Fashion Clothes",
+      "size": 10
+    },
+    {
+      "id": "Fashion Boutique",
+      "label": "Fashion Boutique",
+      "name": "Fashion Boutique",
+      "size": 10
+    },
+    {
+      "id": "Outfit Fashion",
+      "label": "Outfit Fashion",
+      "name": "Outfit Fashion",
+      "size": 10
+    },
+    {
+      "id": "Beauty & Fashion",
+      "label": "Beauty & Fashion",
+      "name": "Beauty & Fashion",
+      "size": 10
+    },
+    {
+      "id": "Fashion Designs",
+      "label": "Fashion Designs",
+      "name": "Fashion Designs",
+      "size": 10
+    },
+    {
+      "id": "Fashion Market",
+      "label": "Fashion Market",
+      "name": "Fashion Market",
+      "size": 10
+    },
+    {
+      "id": "Teen Fashion.",
+      "label": "Teen Fashion.",
+      "name": "Teen Fashion.",
+      "size": 10
+    },
+    {
+      "id": "Art & Fashion",
+      "label": "Art & Fashion",
+      "name": "Art & Fashion",
+      "size": 10
+    },
+    {
+      "id": "Fashion Shop",
+      "label": "Fashion Shop",
+      "name": "Fashion Shop",
+      "size": 10
+    },
+    {
+      "id": "Pinup Fashion",
+      "label": "Pinup Fashion",
+      "name": "Pinup Fashion",
+      "size": 10
+    },
+    {
+      "id": "fashion, men, style",
+      "type": "Category",
+      "label": "fashion, men, style",
+      "name": "fashion, men, style",
+      "size": 10
+    },
+    {
+      "id": "Fashion Men",
+      "label": "Fashion Men",
+      "name": "Fashion Men",
+      "size": 10
+    },
+    {
+      "id": "Fashion and Style",
+      "label": "Fashion and Style",
+      "name": "Fashion and Style",
+      "size": 10
+    },
+    {
+      "id": "Fashion & Style for Men",
+      "label": "Fashion & Style for Men",
+      "name": "Fashion & Style for Men",
+      "size": 10
+    },
+    {
+      "id": "Men Style Fashion",
+      "label": "Men Style Fashion",
+      "name": "Men Style Fashion",
+      "size": 10
+    },
+    {
+      "id": "Sports Wear",
+      "label": "Sports Wear",
+      "name": "Sports Wear",
+      "size": 10
+    },
+    {
+      "id": "Fashion and Textile Museum",
+      "label": "Fashion and Textile Museum",
+      "name": "Fashion and Textile Museum",
+      "size": 10
+    },
+    {
+      "id": "Fashion for Men",
+      "label": "Fashion for Men",
+      "name": "Fashion for Men",
+      "size": 10
+    },
+    {
+      "id": "Fashion World",
+      "label": "Fashion World",
+      "name": "Fashion World",
+      "size": 10
+    },
+    {
+      "id": "New York Fashion Week",
+      "label": "New York Fashion Week",
+      "name": "New York Fashion Week",
+      "size": 10
+    },
+    {
+      "id": "Fashion and makeup",
+      "label": "Fashion and makeup",
+      "name": "Fashion and makeup",
+      "size": 10
+    },
+    {
+      "id": "clothing, streetwear, shop",
+      "type": "Category",
+      "label": "clothing, streetwear, shop",
+      "name": "clothing, streetwear, shop",
+      "size": 10
+    },
+    {
+      "id": "Clothing",
+      "label": "Clothing",
+      "name": "Clothing",
+      "size": 10
+    },
+    {
+      "id": "Streetwear",
+      "label": "Streetwear",
+      "name": "Streetwear",
+      "size": 10
+    },
+    {
+      "id": "Streetwear Shop",
+      "label": "Streetwear Shop",
+      "name": "Streetwear Shop",
+      "size": 10
+    },
+    {
+      "id": "Exclusive Clothing",
+      "label": "Exclusive Clothing",
+      "name": "Exclusive Clothing",
+      "size": 10
+    },
+    {
+      "id": "Korea Fashion Shop",
+      "label": "Korea Fashion Shop",
+      "name": "Korea Fashion Shop",
+      "size": 10
+    },
+    {
+      "id": "Collectif Clothing",
+      "label": "Collectif Clothing",
+      "name": "Collectif Clothing",
+      "size": 10
+    },
+    {
+      "id": "AKOO Clothing Brand",
+      "label": "AKOO Clothing Brand",
+      "name": "AKOO Clothing Brand",
+      "size": 10
+    },
+    {
+      "id": "men's, fashion, clothing",
+      "type": "Category",
+      "label": "men's, fashion, clothing",
+      "name": "men's, fashion, clothing",
+      "size": 10
+    },
+    {
+      "id": "Men's Fashion",
+      "label": "Men's Fashion",
+      "name": "Men's Fashion",
+      "size": 10
+    },
+    {
+      "id": "Men's clothing",
+      "label": "Men's clothing",
+      "name": "Men's clothing",
+      "size": 10
+    },
+    {
+      "id": "Men's Wearhouse",
+      "label": "Men's Wearhouse",
+      "name": "Men's Wearhouse",
+      "size": 10
+    },
+    {
+      "id": "apparel, urban, leather",
+      "type": "Category",
+      "label": "apparel, urban, leather",
+      "name": "apparel, urban, leather",
+      "size": 10
+    },
+    {
+      "id": "Leather",
+      "label": "Leather",
+      "name": "Leather",
+      "size": 10
+    },
+    {
+      "id": "Alloy Apparel",
+      "label": "Alloy Apparel",
+      "name": "Alloy Apparel",
+      "size": 10
+    },
+    {
+      "id": "Urban Wear",
+      "label": "Urban Wear",
+      "name": "Urban Wear",
+      "size": 10
+    },
+    {
+      "id": "American Apparel",
+      "label": "American Apparel",
+      "name": "American Apparel",
+      "size": 10
+    },
+    {
+      "id": "Urban Outfitters",
+      "label": "Urban Outfitters",
+      "name": "Urban Outfitters",
+      "size": 10
+    },
+    {
+      "id": "high-heeled, footwear, slip-on",
+      "type": "Category",
+      "label": "high-heeled, footwear, slip-on",
+      "name": "high-heeled, footwear, slip-on",
+      "size": 10
+    },
+    {
+      "id": "High-heeled footwear",
+      "label": "High-heeled footwear",
+      "name": "High-heeled footwear",
+      "size": 10
+    },
+    {
+      "id": "Slip-on shoe",
+      "label": "Slip-on shoe",
+      "name": "Slip-on shoe",
+      "size": 10
+    },
+    {
+      "id": "Slim-fit pants",
+      "label": "Slim-fit pants",
+      "name": "Slim-fit pants",
+      "size": 10
+    },
+    {
+      "id": "Ugg boots",
+      "label": "Ugg boots",
+      "name": "Ugg boots",
+      "size": 10
+    },
+    {
+      "id": "trainers. sneakers & apparel",
+      "label": "trainers. sneakers & apparel",
+      "name": "trainers. sneakers & apparel",
+      "size": 10
+    },
+    {
+      "id": "fashion, street, ladies",
+      "type": "Category",
+      "label": "fashion, street, ladies",
+      "name": "fashion, street, ladies",
+      "size": 10
+    },
+    {
+      "id": "Street fashion",
+      "label": "Street fashion",
+      "name": "Street fashion",
+      "size": 10
+    },
+    {
+      "id": "Ladies fashion",
+      "label": "Ladies fashion",
+      "name": "Ladies fashion",
+      "size": 10
+    },
+    {
+      "id": "Haute couture",
+      "label": "Haute couture",
+      "name": "Haute couture",
+      "size": 10
+    },
+    {
+      "id": "Hip hop fashion",
+      "label": "Hip hop fashion",
+      "name": "Hip hop fashion",
+      "size": 10
+    },
+    {
+      "id": "Fashion week",
+      "label": "Fashion week",
+      "name": "Fashion week",
+      "size": 10
+    },
+    {
+      "id": "Fashion show",
+      "label": "Fashion show",
+      "name": "Fashion show",
+      "size": 10
+    },
+    {
+      "id": "Fashion blog",
+      "label": "Fashion blog",
+      "name": "Fashion blog",
+      "size": 10
+    },
+    {
+      "id": "bugatti fashion",
+      "label": "bugatti fashion",
+      "name": "bugatti fashion",
+      "size": 10
+    },
+    {
+      "id": "shoes, handbags, dresses",
+      "type": "Category",
+      "label": "shoes, handbags, dresses",
+      "name": "shoes, handbags, dresses",
+      "size": 10
+    },
+    {
+      "id": "Shoes",
+      "label": "Shoes",
+      "name": "Shoes",
+      "size": 10
+    },
+    {
+      "id": "Handbags",
+      "label": "Handbags",
+      "name": "Handbags",
+      "size": 10
+    },
+    {
+      "id": "Dresses",
+      "label": "Dresses",
+      "name": "Dresses",
+      "size": 10
+    },
+    {
+      "id": "Leggings",
+      "label": "Leggings",
+      "name": "Leggings",
+      "size": 10
+    },
+    {
+      "id": "Shoes Passion",
+      "label": "Shoes Passion",
+      "name": "Shoes Passion",
+      "size": 10
+    },
+    {
+      "id": "Shirts",
+      "label": "Shirts",
+      "name": "Shirts",
+      "size": 10
+    },
+    {
+      "id": "Jeans",
+      "label": "Jeans",
+      "name": "Jeans",
+      "size": 10
+    },
+    {
+      "id": "Anarkali Salwar Suit",
+      "label": "Anarkali Salwar Suit",
+      "name": "Anarkali Salwar Suit",
+      "size": 10
+    },
+    {
+      "id": "beauty, boutiques, salons",
+      "type": "Category",
+      "label": "beauty, boutiques, salons",
+      "name": "beauty, boutiques, salons",
+      "size": 10
+    },
+    {
+      "id": "Boutiques",
+      "label": "Boutiques",
+      "name": "Boutiques",
+      "size": 10
+    },
+    {
+      "id": "Beauty salons",
+      "label": "Beauty salons",
+      "name": "Beauty salons",
+      "size": 10
+    },
+    {
+      "id": "Cosmetics",
+      "label": "Cosmetics",
+      "name": "Cosmetics",
+      "size": 10
+    },
+    {
+      "id": "Beauty",
+      "label": "Beauty",
+      "name": "Beauty",
+      "size": 10
+    },
+    {
+      "id": "Hair products",
+      "label": "Hair products",
+      "name": "Hair products",
+      "size": 10
+    },
+    {
+      "id": "fashion, sportswear, (band)",
+      "type": "Category",
+      "label": "fashion, sportswear, (band)",
+      "name": "fashion, sportswear, (band)",
+      "size": 10
+    },
+    {
+      "id": "Fashion (band)",
+      "label": "Fashion (band)",
+      "name": "Fashion (band)",
+      "size": 10
+    },
+    {
+      "id": "Sportswear (activewear)",
+      "label": "Sportswear (activewear)",
+      "name": "Sportswear (activewear)",
+      "size": 10
+    },
+    {
+      "id": "Sportswear (fashion)",
+      "label": "Sportswear (fashion)",
+      "name": "Sportswear (fashion)",
+      "size": 10
+    },
+    {
+      "id": "Fashion (magazine)",
+      "label": "Fashion (magazine)",
+      "name": "Fashion (magazine)",
+      "size": 10
+    },
+    {
+      "id": "dress, shirt, formal",
+      "type": "Category",
+      "label": "dress, shirt, formal",
+      "name": "dress, shirt, formal",
+      "size": 10
+    },
+    {
+      "id": "Dress shirt",
+      "label": "Dress shirt",
+      "name": "Dress shirt",
+      "size": 10
+    },
+    {
+      "id": "Formal wear",
+      "label": "Formal wear",
+      "name": "Formal wear",
+      "size": 10
+    },
+    {
+      "id": "T-shirt",
+      "label": "T-shirt",
+      "name": "T-shirt",
+      "size": 10
+    },
+    {
+      "id": "Party dress",
+      "label": "Party dress",
+      "name": "Party dress",
+      "size": 10
+    },
+    {
+      "id": "sneaker, sandal, collecting",
+      "type": "Category",
+      "label": "sneaker, sandal, collecting",
+      "name": "sneaker, sandal, collecting",
+      "size": 10
+    },
+    {
+      "id": "Sandal",
+      "label": "Sandal",
+      "name": "Sandal",
+      "size": 10
+    },
+    {
+      "id": "Sneaker collecting",
+      "label": "Sneaker collecting",
+      "name": "Sneaker collecting",
+      "size": 10
+    },
+    {
+      "id": "Sneaker Freaker",
+      "label": "Sneaker Freaker",
+      "name": "Sneaker Freaker",
+      "size": 10
+    },
+    {
+      "id": "shopping, centres",
+      "type": "Category",
+      "label": "shopping, centres",
+      "name": "shopping, centres",
+      "size": 10
+    },
+    {
+      "id": "Online shopping",
+      "label": "Online shopping",
+      "name": "Online shopping",
+      "size": 10
+    },
+    {
+      "id": "Shopping",
+      "label": "Shopping",
+      "name": "Shopping",
+      "size": 10
+    },
+    {
+      "id": "Shopping centres",
+      "label": "Shopping centres",
+      "name": "Shopping centres",
+      "size": 10
+    },
+    {
+      "id": "trousers, jewellery, nightwear",
+      "type": "Category",
+      "label": "trousers, jewellery, nightwear",
+      "name": "trousers, jewellery, nightwear",
+      "size": 10
+    },
+    {
+      "id": "Trousers",
+      "label": "Trousers",
+      "name": "Trousers",
+      "size": 10
+    },
+    {
+      "id": "Jewellery",
+      "label": "Jewellery",
+      "name": "Jewellery",
+      "size": 10
+    },
+    {
+      "id": "Nightwear",
+      "label": "Nightwear",
+      "name": "Nightwear",
+      "size": 10
+    },
+    {
+      "id": "Boots UK",
+      "label": "Boots UK",
+      "name": "Boots UK",
+      "size": 10
+    },
+    {
+      "id": "hoodie, wallet, jacket",
+      "type": "Category",
+      "label": "hoodie, wallet, jacket",
+      "name": "hoodie, wallet, jacket",
+      "size": 10
+    },
+    {
+      "id": "Hoodie",
+      "label": "Hoodie",
+      "name": "Hoodie",
+      "size": 10
+    },
+    {
+      "id": "Wallet",
+      "label": "Wallet",
+      "name": "Wallet",
+      "size": 10
+    },
+    {
+      "id": "Jacket",
+      "label": "Jacket",
+      "name": "Jacket",
+      "size": 10
+    }
+  ],
+  "links": [
+    {
+      "source": "clothing, fashion, sustainable",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Fashion design",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Fashion clothing",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Fashion accessories",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Vintage clothing",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Designer clothing",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Sustainable fashion",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Luxury goods",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "z3 Relaxed Luxury Clothing",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "Sustainable clothing",
+      "target": "clothing, fashion, sustainable",
+      "distance": 5
+    },
+    {
+      "source": "footwear, news, pediped",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Footwear",
+      "target": "footwear, news, pediped",
+      "distance": 5
+    },
+    {
+      "source": "Footwear News",
+      "target": "footwear, news, pediped",
+      "distance": 5
+    },
+    {
+      "source": "pediped Footwear",
+      "target": "footwear, news, pediped",
+      "distance": 5
+    },
+    {
+      "source": "Outerwear",
+      "target": "footwear, news, pediped",
+      "distance": 5
+    },
+    {
+      "source": "Eyewear",
+      "target": "footwear, news, pediped",
+      "distance": 5
+    },
+    {
+      "source": "fashion, style, trend",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Online Fashion",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Style Fashion Trend",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Fashion Bags",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Style & Fashion",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Fashion Clothes",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Fashion Boutique",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Outfit Fashion",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Beauty & Fashion",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Fashion Designs",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Fashion Market",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Teen Fashion.",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Art & Fashion",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Fashion Shop",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "Pinup Fashion",
+      "target": "fashion, style, trend",
+      "distance": 5
+    },
+    {
+      "source": "fashion, men, style",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Fashion Men",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Fashion and Style",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Fashion & Style for Men",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Men Style Fashion",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Sports Wear",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Fashion and Textile Museum",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Fashion for Men",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Fashion World",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "New York Fashion Week",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "Fashion and makeup",
+      "target": "fashion, men, style",
+      "distance": 5
+    },
+    {
+      "source": "clothing, streetwear, shop",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Clothing",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "Streetwear",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "Streetwear Shop",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "Exclusive Clothing",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "Korea Fashion Shop",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "Collectif Clothing",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "AKOO Clothing Brand",
+      "target": "clothing, streetwear, shop",
+      "distance": 5
+    },
+    {
+      "source": "men's, fashion, clothing",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Men's Fashion",
+      "target": "men's, fashion, clothing",
+      "distance": 5
+    },
+    {
+      "source": "Men's clothing",
+      "target": "men's, fashion, clothing",
+      "distance": 5
+    },
+    {
+      "source": "Men's Wearhouse",
+      "target": "men's, fashion, clothing",
+      "distance": 5
+    },
+    {
+      "source": "apparel, urban, leather",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Leather",
+      "target": "apparel, urban, leather",
+      "distance": 5
+    },
+    {
+      "source": "Alloy Apparel",
+      "target": "apparel, urban, leather",
+      "distance": 5
+    },
+    {
+      "source": "Urban Wear",
+      "target": "apparel, urban, leather",
+      "distance": 5
+    },
+    {
+      "source": "American Apparel",
+      "target": "apparel, urban, leather",
+      "distance": 5
+    },
+    {
+      "source": "Urban Outfitters",
+      "target": "apparel, urban, leather",
+      "distance": 5
+    },
+    {
+      "source": "high-heeled, footwear, slip-on",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "High-heeled footwear",
+      "target": "high-heeled, footwear, slip-on",
+      "distance": 5
+    },
+    {
+      "source": "Slip-on shoe",
+      "target": "high-heeled, footwear, slip-on",
+      "distance": 5
+    },
+    {
+      "source": "Slim-fit pants",
+      "target": "high-heeled, footwear, slip-on",
+      "distance": 5
+    },
+    {
+      "source": "Ugg boots",
+      "target": "high-heeled, footwear, slip-on",
+      "distance": 5
+    },
+    {
+      "source": "trainers. sneakers & apparel",
+      "target": "high-heeled, footwear, slip-on",
+      "distance": 5
+    },
+    {
+      "source": "fashion, street, ladies",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Street fashion",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "Ladies fashion",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "Haute couture",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "Hip hop fashion",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "Fashion week",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "Fashion show",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "Fashion blog",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "bugatti fashion",
+      "target": "fashion, street, ladies",
+      "distance": 5
+    },
+    {
+      "source": "shoes, handbags, dresses",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Shoes",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Handbags",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Dresses",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Leggings",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Shoes Passion",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Shirts",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Jeans",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "Anarkali Salwar Suit",
+      "target": "shoes, handbags, dresses",
+      "distance": 5
+    },
+    {
+      "source": "beauty, boutiques, salons",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Boutiques",
+      "target": "beauty, boutiques, salons",
+      "distance": 5
+    },
+    {
+      "source": "Beauty salons",
+      "target": "beauty, boutiques, salons",
+      "distance": 5
+    },
+    {
+      "source": "Cosmetics",
+      "target": "beauty, boutiques, salons",
+      "distance": 5
+    },
+    {
+      "source": "Beauty",
+      "target": "beauty, boutiques, salons",
+      "distance": 5
+    },
+    {
+      "source": "Hair products",
+      "target": "beauty, boutiques, salons",
+      "distance": 5
+    },
+    {
+      "source": "fashion, sportswear, (band)",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Fashion (band)",
+      "target": "fashion, sportswear, (band)",
+      "distance": 5
+    },
+    {
+      "source": "Sportswear (activewear)",
+      "target": "fashion, sportswear, (band)",
+      "distance": 5
+    },
+    {
+      "source": "Sportswear (fashion)",
+      "target": "fashion, sportswear, (band)",
+      "distance": 5
+    },
+    {
+      "source": "Fashion (magazine)",
+      "target": "fashion, sportswear, (band)",
+      "distance": 5
+    },
+    {
+      "source": "dress, shirt, formal",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Dress shirt",
+      "target": "dress, shirt, formal",
+      "distance": 5
+    },
+    {
+      "source": "Formal wear",
+      "target": "dress, shirt, formal",
+      "distance": 5
+    },
+    {
+      "source": "T-shirt",
+      "target": "dress, shirt, formal",
+      "distance": 5
+    },
+    {
+      "source": "Party dress",
+      "target": "dress, shirt, formal",
+      "distance": 5
+    },
+    {
+      "source": "sneaker, sandal, collecting",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Sandal",
+      "target": "sneaker, sandal, collecting",
+      "distance": 5
+    },
+    {
+      "source": "Sneaker collecting",
+      "target": "sneaker, sandal, collecting",
+      "distance": 5
+    },
+    {
+      "source": "Sneaker Freaker",
+      "target": "sneaker, sandal, collecting",
+      "distance": 5
+    },
+    {
+      "source": "shopping, centres",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Online shopping",
+      "target": "shopping, centres",
+      "distance": 5
+    },
+    {
+      "source": "Shopping",
+      "target": "shopping, centres",
+      "distance": 5
+    },
+    {
+      "source": "Shopping centres",
+      "target": "shopping, centres",
+      "distance": 5
+    },
+    {
+      "source": "trousers, jewellery, nightwear",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Trousers",
+      "target": "trousers, jewellery, nightwear",
+      "distance": 5
+    },
+    {
+      "source": "Jewellery",
+      "target": "trousers, jewellery, nightwear",
+      "distance": 5
+    },
+    {
+      "source": "Nightwear",
+      "target": "trousers, jewellery, nightwear",
+      "distance": 5
+    },
+    {
+      "source": "Boots UK",
+      "target": "trousers, jewellery, nightwear",
+      "distance": 5
+    },
+    {
+      "source": "hoodie, wallet, jacket",
+      "target": "clothing, fashion, sustainable",
+      "distance": 15
+    },
+    {
+      "source": "Hoodie",
+      "target": "hoodie, wallet, jacket",
+      "distance": 5
+    },
+    {
+      "source": "Wallet",
+      "target": "hoodie, wallet, jacket",
+      "distance": 5
+    },
+    {
+      "source": "Jacket",
+      "target": "hoodie, wallet, jacket",
+      "distance": 5
+    }
+  ]
+}
